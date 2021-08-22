@@ -4,7 +4,7 @@ files:
  - source: /
    destination: /home/ubuntu/urban-potato
    
- permissions:
+permissions:
   - object: /home/ubuntu
     owner: ubuntu
     group: ubuntu

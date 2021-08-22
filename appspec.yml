@@ -13,6 +13,6 @@ permissions:
       - file
 hooks:
   ApplicationStart:
-   - location: scripts/update_app
+   - location: scripts/update_app.sh
      timeout: 300
      runas: root
